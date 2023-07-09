@@ -12,3 +12,4 @@
 Access, Microsoft office 365 suite
 
 **Visualization tools** : Tableau: https://public.tableau.com/app/profile/elvis.musonera, PowerBI
+**Certifications**: Google Data Analytics Certificate, CyberAwareness Challenge Certificate
