@@ -8,5 +8,7 @@
 
 **Programming Languages**: R, Python, C, SQL, HTML, CSS, Haskell, JavaScript, PHP, JavaSript
 
-**Libraries and Tools** : Git, Natural Languagetoolkit, Tableau, PowerBI, Qlik, GoogleAnalytics, Azure, AWS,
+**Libraries and Tools** : Git, Natural Languagetoolkit, Qlik, GoogleAnalytics, Azure, AWS,
 Access, Microsoft office 365 suite
+
+**Visualization tools** : Tableau: https://public.tableau.com/app/profile/elvis.musonera, PowerBI
