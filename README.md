@@ -13,4 +13,4 @@ Access, Microsoft office 365 suite,Pyspark, RDBMS, Databricks
 
 **Visualization tools** : Tableau: https://public.tableau.com/app/profile/elvis.musonera, PowerBI, Domo.
 
-**Certifications**: Google Data Analytics Certificate, CyberAwareness Challenge Certificate
+**Certifications**: Google Data Analytics Certificate, CyberAwareness Challenge Certificate, HackerRank SQL Skill Certificate
